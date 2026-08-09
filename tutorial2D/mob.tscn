@@ -65,7 +65,7 @@ animations = [{
 radius = 36.0
 height = 98.0
 
-[node name="Mob" type="RigidBody2D" unique_id=1368382180]
+[node name="Mob" type="RigidBody2D" unique_id=1368382180 groups=["mobs"]]
 position = Vector2(-21, -1)
 gravity_scale = 0.0
 script = SubResource("GDScript_b3mxk")
