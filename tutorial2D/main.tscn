@@ -39,6 +39,7 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
+color = Color(0.58190006, 0.9539395, 0.942762, 1)
 
 [node name="Player" parent="." unique_id=470329793 instance=ExtResource("1_ig7tw")]
 
@@ -60,6 +61,7 @@ curve = SubResource("Curve2D_7dm0k")
 [node name="MobSpawnLocation" type="PathFollow2D" parent="MobPath" unique_id=1947459908]
 
 [node name="HUD" parent="." unique_id=1918794833 instance=ExtResource("4_1bvp3")]
+
 [node name="Music" type="AudioStreamPlayer2D" parent="." unique_id=1216031964]
 stream = SubResource("AudioStreamOggVorbis_h2yge")
 
