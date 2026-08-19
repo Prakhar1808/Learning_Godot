@@ -5,3 +5,6 @@ resources i used:
 
 Used by the "Your first 2D game" tutorial:
 https://docs.godotengine.org/en/latest/getting_started/first_2d_game/index.html
+
+### screenshots:
+![Screenshot1](/home/prakhar/Documents/Github/Learning_Godot/tutorial2D/images/screenshot_start.png)
